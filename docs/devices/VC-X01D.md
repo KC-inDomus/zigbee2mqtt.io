@@ -38,6 +38,9 @@ This device supports OTA updates, for more information see [OTA updates](../guid
 * `state_action`: State actions will also be published as 'action' when true (default false). The value must be `true` or `false`
 
 
+## Pairing
+To reset the device and start a new pairing, press twice the reset button, then press again holding for 5 seconds.
+
 ## Exposes
 
 ### Switch 
