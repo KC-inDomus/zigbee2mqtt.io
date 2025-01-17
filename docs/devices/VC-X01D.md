@@ -23,10 +23,11 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
+## Pairing
 
+Differently from what is written in the manual, the reset/pairing process is done pressing twice, fast, the reset buttom, then keeping pressed the same button.
 
 <!-- Notes END: Do not edit below this line -->
-
 
 ## OTA updates
 This device supports OTA updates, for more information see [OTA updates](../guide/usage/ota_updates.md).
